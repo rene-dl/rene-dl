@@ -1,6 +1,6 @@
 # 👨‍💻 René Dávila Licona
 
-**`Data Analyst`**
+**`Data Analyst / Electronic Engineer`**
 
 I am an Electronic Engineer with a strong technical background and experience in developing technological solutions. Currently, I´m focused on Data Analysis, leveraging my analytical skills and passion for turning data into valuable insights.
 
