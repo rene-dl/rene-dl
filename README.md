@@ -1,8 +1,8 @@
-# 👨‍💻 René Dávila Licona
+# Hi 👋 I´m René
 
 **`Data Analyst / Electronic Engineer`**
 
-I am an Electronic Engineer with a strong technical background and experience in developing technological solutions. Currently, I´m focused on Data Analysis, leveraging my analytical skills and passion for turning data into valuable insights.
+I´m an Electronic Engineer with a strong technical background and experience in developing technological solutions. Currently, I´m focused on Data Analysis, leveraging my analytical skills and passion for turning data into valuable insights.
 
 ### 🔨 Languages and Tools:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
