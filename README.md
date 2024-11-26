@@ -2,7 +2,7 @@
 
 **`Data Analyst / Electronic Engineer`**
 
-I´m a Data analyst with experience in transforming data into valuable insights for strategic decision-making. Skilled in data analysis and wrangling using Excel, SQL, and Python, as well as data visualization and storytelling with Tableau. My background in engineering provides a strong technical foundation that enhances my analytical and problem-solving abilities.
+I´m a Data analyst with experience in transforming data into valuable insights for strategic decision-making. Skilled in data analysis using Excel, SQL, and Python, as well as data visualization and storytelling with Tableau. My background in engineering provides a strong technical foundation that enhances my analytical and problem-solving abilities.
 
 ### 🔨 Skills
 #### Data Cleaning
